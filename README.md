@@ -191,3 +191,45 @@ gulp.task('browser-sync', ['default'], function () {
 
 # Teste para praticar: Task Runners
 # Web Tools: Grunt and Gulp: Additional Resources
+
+  Grunt Resources
+
+Grunt http://gruntjs.com/
+Writing an Awesome Build Script with Grunt   http://www.sitepoint.com/writing-awesome-build-script-grunt/
+Clean Grunt http://anders.janmyr.com/2014/01/clean-grunt.html
+File Globbing http://gruntjs.com/configuring-tasks#globbing-patterns
+grunt-contrib-jshint https://github.com/gruntjs/grunt-contrib-jshint
+jshint-stylish https://github.com/sindresorhus/jshint-stylish
+grunt-contrib-copy https://github.com/gruntjs/grunt-contrib-copy
+grunt-contrib-clean https://github.com/gruntjs/grunt-contrib-clean
+grunt-usemin https://github.com/yeoman/grunt-usemin
+grunt-contrib-concat https://github.com/gruntjs/grunt-contrib-concat
+grunt-contrib-cssmin https://github.com/gruntjs/grunt-contrib-cssmin
+grunt-contrib-uglify https://github.com/gruntjs/grunt-contrib-uglify
+grunt-filerev  https://github.com/yeoman/grunt-filerev
+
+
+Gulp Resources 
+
+Gulp  http://gulpjs.com/
+An Introduction to Gulp.js  http://www.sitepoint.com/introduction-gulp-js/
+Getting started with gulp http://www.sitepoint.com/introduction-gulp-js/
+Building with Gulp http://www.smashingmagazine.com/2014/06/building-with-gulp/
+
+Tasks
+
+Minification http://www.smashingmagazine.com/2014/06/building-with-gulp/
+UglifyJS http://lisperator.net/uglifyjs/
+JSHint http://lisperator.net/uglifyjs/
+
+
+General Resources
+
+Node, Grunt, Bower and Yeoman - A Modern web dev's Toolkit  http://juristr.com/blog/2014/08/node-grunt-yeoman-bower/
+The Advantages of Using Task Runners https://www.dbswebsite.com/blog/2015/02/24/the-advantages-of-using-task-runners/
+Gulp vs Grunt. Why one? Why the Other? https://www.dbswebsite.com/blog/2015/02/24/the-advantages-of-using-task-runners/
+Why we should stop using Grunt & Gulp  http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/
+
+
+end
+
